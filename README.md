@@ -1,7 +1,7 @@
 # 💫 About Me:
 **Hi, I'm Luke!**
 
-Hi, I’m Luke. I work in cyber security and have a background in Computer Science. Although I primarily focus on vulnerability research, I also enjoy dabbling in programming, artificial intelligence, and visualisation.
+I work in cyber security and have a background in Computer Science. Although I primarily focus on vulnerability research, I also enjoy dabbling in programming, artificial intelligence, and visualisation.
 
 [I started a blog, check it out :)](https://luke-r-m.github.io/)
 
