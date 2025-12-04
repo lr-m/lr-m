@@ -6,6 +6,7 @@ Hi! I work in cyber and have a background in computer science. I primarily focus
 
 ## 📖 PagedOut Articles
 
+<div align="center">
 <table>
   <tr>
     <td align="center">
@@ -48,3 +49,4 @@ Hi! I work in cyber and have a background in computer science. I primarily focus
     </td>
   </tr>
 </table>
+</div>
