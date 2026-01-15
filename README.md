@@ -11,7 +11,7 @@ Hi! I work in cyber and have a background in computer science. I primarily focus
   <tr>
     <td align="center">
       <a href="https://pagedout.institute/download/PagedOut_004_beta1.pdf">
-        <img src="https://pagedout.institute/static/img/issue_4_cover_small.png" alt="PagedOut Issue 4" width="100">
+        <img src="https://pagedout.institute/static/img/issue_4_cover_small.png" alt="PagedOut Issue 4" width="50">
       </a>
     </td>
     <td align="left">
@@ -24,7 +24,7 @@ Hi! I work in cyber and have a background in computer science. I primarily focus
   <tr>
     <td align="center">
       <a href="https://pagedout.institute/download/PagedOut_006.pdf">
-        <img src="https://pagedout.institute/static/img/issue_6_cover_small.png" alt="PagedOut Issue 6" width="100">
+        <img src="https://pagedout.institute/static/img/issue_6_cover_small.png" alt="PagedOut Issue 6" width="50">
       </a>
     </td>
     <td align="left">
@@ -37,7 +37,7 @@ Hi! I work in cyber and have a background in computer science. I primarily focus
   <tr>
     <td align="center">
       <a href="https://pagedout.institute/download/PagedOut_007.pdf">
-        <img src="https://pagedout.institute/static/img/issue_7_cover_small.png" alt="PagedOut Issue 7" width="100">
+        <img src="https://pagedout.institute/static/img/issue_7_cover_small.png" alt="PagedOut Issue 7" width="50">
       </a>
     </td>
     <td align="left">
