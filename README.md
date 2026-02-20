@@ -11,7 +11,7 @@ Hi! I work in cyber and have a background in computer science. I primarily focus
   <tr>
     <td align="center">
       <a href="https://pagedout.institute/download/PagedOut_004_beta1.pdf">
-        <img src="https://pagedout.institute/static/img/issue_4_cover_small.png" alt="PagedOut Issue 4" width="50">
+        <img src="https://pagedout.institute/static/img/issue_4_cover_small.png" alt="PagedOut Issue 4" width="75">
       </a>
     </td>
     <td align="left">
@@ -24,7 +24,7 @@ Hi! I work in cyber and have a background in computer science. I primarily focus
   <tr>
     <td align="center">
       <a href="https://pagedout.institute/download/PagedOut_006.pdf">
-        <img src="https://pagedout.institute/static/img/issue_6_cover_small.png" alt="PagedOut Issue 6" width="50">
+        <img src="https://pagedout.institute/static/img/issue_6_cover_small.png" alt="PagedOut Issue 6" width="75">
       </a>
     </td>
     <td align="left">
@@ -37,7 +37,7 @@ Hi! I work in cyber and have a background in computer science. I primarily focus
   <tr>
     <td align="center">
       <a href="https://pagedout.institute/download/PagedOut_007.pdf">
-        <img src="https://pagedout.institute/static/img/issue_7_cover_small.png" alt="PagedOut Issue 7" width="50">
+        <img src="https://pagedout.institute/static/img/issue_7_cover_small.png" alt="PagedOut Issue 7" width="75">
       </a>
     </td>
     <td align="left">
@@ -45,6 +45,19 @@ Hi! I work in cyber and have a background in computer science. I primarily focus
       <ul>
         <li><a href="https://pagedout.institute/download/PagedOut_007.pdf#page=65"><em>If It Has a Stream, It Can Play DOOM</em></a></li>
         <li><a href="https://pagedout.institute/download/PagedOut_007.pdf#page=58"><em>(Un)safe and Sound: Rooting a Camera with a Noise</em></a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://pagedout.institute/download/PagedOut_008.pdf">
+        <img src="https://pagedout.institute/static/img/issue_8_cover_small.png" alt="PagedOut Issue 7" width="75">
+      </a>
+    </td>
+    <td align="left">
+      <strong>Issue 8:</strong>
+      <ul>
+        <li><a href="https://pagedout.institute/download/PagedOut_008.pdf#page=82"><em>Killing Canaries for Kirby: Hacking an IoT Camera to Play NES Games</em></a></li>
       </ul>
     </td>
   </tr>
